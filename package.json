@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brunokarpo/mypluralizer/issues"
   },
-  "homepage": "https://github.com/brunokarpo/mypluralizer#readme"
+  "homepage": "https://github.com/brunokarpo/mypluralizer#readme",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
 }
