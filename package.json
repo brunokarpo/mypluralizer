@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js - - -R spec",
     "test": "mocha --reporter spec"
   },
   "repository": {
