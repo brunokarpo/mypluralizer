@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/brunokarpo/mypluralizer#readme",
   "devDependencies": {
+    "@types/pluralize": "0.0.28",
     "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
   }
 }
