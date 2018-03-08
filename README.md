@@ -1,4 +1,4 @@
-#mypluralizer
+# mypluralizer
 [![Build Status](https://travis-ci.org/brunokarpo/mypluralizer.svg?branch=master)](https://travis-ci.org/brunokarpo/mypluralizer)
 [![Coverage Status](https://coveralls.io/repos/github/brunokarpo/mypluralizer/badge.svg?branch=master)](https://coveralls.io/github/brunokarpo/mypluralizer?branch=master)
 
